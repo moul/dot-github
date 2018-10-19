@@ -1,6 +1,6 @@
 `.github` Directory Generator
 =============================
-[![Build Status](https://travis-ci.org/rhysd/dot-github.svg?branch=master)](https://travis-ci.org/rhysd/dot-github)
+[![Build Status](https://travis-ci.org/rhysd/dot-github.svg?branch=master)](https://travis-ci.org/rhysd/dot-github) [![GuardRails badge](https://badges.production.guardrails.io/moul/dot-github.svg)](https://www.guardrails.io)
 
 GitHub now supports [issue and pull request template](https://github.com/blog/2111-issue-and-pull-request-templates).  This repository provides `dot-github` command to generate the template files automatically for your GitHub repositories.
 
